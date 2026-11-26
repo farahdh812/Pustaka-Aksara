@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Aksara — Perpustakaan Digital",
+  "description": "Perpustakaan digital untuk meminjam buku secara daring, melacak riwayat bacaan, notifikasi pengembalian buku, ulasan komunitas, dan rekomendasi buku populer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

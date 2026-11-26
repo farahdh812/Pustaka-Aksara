@@ -1,0 +1,442 @@
+{
+  "profile": {
+    "name": "Farah Dhiba",
+    "memberId": "PA-2026-0812",
+    "maxActiveLoans": 5
+  },
+  "books": [
+    {
+      "id": "jejak-hujan-di-muara",
+      "isbn": "978-623-8104-12-7",
+      "accessionNumber": "PA.2024.018",
+      "title": "Jejak Hujan di Muara",
+      "author": "Nadia Pramesti",
+      "category": "Fiksi Sastra",
+      "year": 2024,
+      "pages": 312,
+      "publisher": "Penerbit Lentera Aksara",
+      "language": "Indonesia",
+      "coverImage": "/src/assets/images/cover_jejak_hujan_1795675834554.jpg",
+      "clothColor": "#2D4A3E",
+      "clothAccent": "#D8E2DC",
+      "synopsis": "Kisah seorang kartografer sungai yang menyusuri kembali muara-muara tua di pesisir barat Kalimantan demi menyusun peta ingatan keluarganya yang hilang bersama banjir besar tahun 1984.",
+      "curatorialNote": "Terpilih sebagai novel sastra paling banyak dipinjam sepanjang kuartal ini karena prosa puitisnya tentang ekologi sungai dan memori lintas generasi.",
+      "totalCopies": 6,
+      "availableCopies": 4,
+      "borrowCount": 164,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Perahu Kertas di Dermaga Kayu",
+          "content": [
+            "Hujan di hulu selalu datang lebih dulu sebelum kabarnya sampai ke dermaga. Pada pukul lima pagi, permukaan Sungai Kapuas berubah warna menjadi tembaga pucat, membawa ranting rotan dan bau tanah basah dari perbukitan pedalaman.",
+            "Raka meletakkan gulungan peta tua di atas meja kayu ulin. Tinta biru yang digambar ayahnya empat dekade lalu mulai memudar di tepian lipatan, namun garis-garis anak sungai masih terbaca jelas seperti urat nadi di punggung tangan.",
+            "Di kota pelabuhan kecil ini, orang-orang mengukur waktu bukan dari jarum jam, melainkan dari pasang surut air dan bunyi peluit kapal kayu yang bersandar sebelum senja turun."
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Bab 2: Arsip yang Terendam",
+          "content": [
+            "Gedung arsip kecamatan berdiri di atas tiang-tiang besi tua yang separuhnya diselimuti lumut air. Setiap musim penghujan, lemari berkas di lantai dasar dipindahkan ke loteng dengan katrol tali rami.",
+            "Di dalam peti timah bernomor 14, Raka menemukan tiga buku catatan lapangan berisi sketsa rumah lanting, daftar nama juru mudi, dan selembar foto berbingkai kertas tipis yang sudutnya terbakar matahari.",
+            "Setiap nama yang tertulis di pinggir halaman terasa seperti undangan untuk menelusuri kembali percakapan yang terputus oleh jarak dan waktu."
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Bab 3: Peta untuk Hari Esok",
+          "content": [
+            "Menjelang minggu ketiga perjalanan, buku sketsa Raka telah penuh dengan catatan pasang surut, sketsa jembatan gantung, dan cerita lisan para penambang sampan.",
+            "Ia menyadari bahwa peta terbaik bukan sekadar gambar tentang letak daratan dan kedalaman air, melainkan catatan tentang bagaimana manusia bertahan dan saling menjaga di tepian arus."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "peta-langit-nusantara",
+      "isbn": "978-623-7419-08-2",
+      "accessionNumber": "PA.2025.004",
+      "title": "Peta Langit Nusantara",
+      "author": "Dr. Hendra Kusuma",
+      "category": "Sains & Kosmos",
+      "year": 2025,
+      "pages": 286,
+      "publisher": "Balai Pustaka Sains",
+      "language": "Indonesia",
+      "coverImage": "/src/assets/images/cover_peta_langit_1795675836280.jpg",
+      "clothColor": "#1E3A5F",
+      "clothAccent": "#E9C46A",
+      "synopsis": "Eksplorasi mendalam tentang sejarah astronomi maritim di kepulauan Nusantara, mulai dari pembacaan rasi bintang oleh pelaut Bugis hingga observatorium modern di khatulistiwa.",
+      "curatorialNote": "Rekomendasi utama pembaca kategori sains populer dengan tingkat penyelesaian baca tertinggi di Pustaka Aksara.",
+      "totalCopies": 5,
+      "availableCopies": 5,
+      "borrowCount": 152,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Kompas Bintang di Khatulistiwa",
+          "content": [
+            "Berada tepat di garis ekuator memberikan keistimewaan optik yang langka: hampir seluruh belahan langit utara dan selatan dapat diamati dalam siklus satu tahun penuh dari titik pengamatan yang sama.",
+            "Bagi para pelaut tradisional Nusantara, langit malam bukan sekadar hamparan titik cahaya, melainkan kalender musim angin dan peta navigasi terbuka tanpa batas daratan.",
+            "Rasi Layang-Layang Selatan dan Gugus Bintang Tujuh menjadi penanda kapan layar pinisi dibentangkan menuju timur dan kapan perahu harus berlindung di teluk tenang."
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Bab 2: Astrolab dan Jam Pasir",
+          "content": [
+            "Pertemuan jalur perdagangan rempah membawa instrumen kuningan seperti astrolab dan kuadran ke pelabuhan-pelabuhan niaga di Sumatra, Jawa, dan Maluku.",
+            "Dengan mengukur ketinggian bintang kutub atau matahari pada tengah hari, juru mudi dapat memperkirakan garis lintang pelayaran bahkan ketika garis pantai telah menghilang di cakrawala."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arsitektur-kayu-ruang-teduh",
+      "isbn": "978-602-5910-44-1",
+      "accessionNumber": "PA.2023.112",
+      "title": "Arsitektur Kayu & Ruang Teduh",
+      "author": "Raden Bagus Wirawan",
+      "category": "Arsitektur & Budaya",
+      "year": 2023,
+      "pages": 248,
+      "publisher": "Serambi Ruang Press",
+      "language": "Indonesia",
+      "coverImage": "/src/assets/images/cover_arsitektur_kayu_1795675835639.jpg",
+      "clothColor": "#5C4033",
+      "clothAccent": "#EAE0D5",
+      "synopsis": "Monograf visual dan teknis tentang sistem sambungan kayu tanpa paku, sirkulasi angin silang, dan tata cahaya alami pada bangunan tropis Nusantara.",
+      "curatorialNote": "Koleksi wajib bagi peminat desain ruang, arsitektur berkelanjutan, dan pelestarian kriya kayu tradisional.",
+      "totalCopies": 4,
+      "availableCopies": 3,
+      "borrowCount": 129,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Logika Sambungan Pasak",
+          "content": [
+            "Keunggulan bangunan kayu tradisional terletak pada elastisitas sambungannya. Alih-alih mengunci balok secara kaku dengan paku besi, tukang kayu merancang lidah, alur, dan pasak yang membiarkan struktur bernapas mengikuti getaran tanah dan perubahan kelembapan.",
+            "Di bawah atap bertritisan lebar, cahaya matahari tropis yang tajam disaring terlebih dahulu melalui kisi-kisi beranda sebelum menyentuh ruang dalam yang sejuk."
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Bab 2: Halaman Dalam sebagai Paru-Paru Rumah",
+          "content": [
+            "Ruang terbuka di tengah bangunan berfungsi layaknya cerobong alami yang melepaskan udara hangat ke atas sambil menarik hawa sejuk dari taman teduh di sekitarnya."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "etika-sunyi-zaman-bising",
+      "isbn": "978-623-9022-31-9",
+      "accessionNumber": "PA.2024.073",
+      "title": "Etika Sunyi di Zaman Bising",
+      "author": "Siti Rahmawati",
+      "category": "Filsafat & Esai",
+      "year": 2024,
+      "pages": 198,
+      "publisher": "Pustaka Narasi",
+      "language": "Indonesia",
+      "coverImage": "/src/assets/images/cover_etika_sunyi_1795675836753.jpg",
+      "clothColor": "#8C4A32",
+      "clothAccent": "#F3E9DC",
+      "synopsis": "Kumpulan dua belas esai reflektif tentang seni merawat perhatian, membaca secara mendalam, dan membangun jeda bermakna di tengah banjir informasi digital.",
+      "curatorialNote": "Esai paling banyak diulas oleh komunitas pembaca sepanjang bulan ini dengan skor kepuasan tinggi.",
+      "totalCopies": 5,
+      "availableCopies": 3,
+      "borrowCount": 141,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Esai 1: Hak Atas Keheningan",
+          "content": [
+            "Kebisingan modern jarang hadir dalam bentuk suara keras; ia datang sebagai tuntutan perhatian yang terpecah setiap tiga puluh detik. Kita terbiasa menukar kedalaman pikiran dengan kecepatan tanggapan.",
+            "Membaca buku panjang adalah tindakan perlawanan yang sunyi. Ia melatih pikiran untuk tinggal di satu gagasan cukup lama hingga makna aslinya mengendap."
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Esai 2: Perpustakaan sebagai Ruang Publik Terakhir",
+          "content": [
+            "Di antara sedikit ruang kota yang tidak meminta kita membeli sesuatu untuk boleh duduk tenang, perpustakaan tetap menjadi benteng kesetaraan pengetahuan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "surat-surat-pelabuhan-lama",
+      "isbn": "978-602-4418-77-3",
+      "accessionNumber": "PA.2022.055",
+      "title": "Surat-Surat dari Pelabuhan Lama",
+      "author": "Arif Budiman",
+      "category": "Sejarah",
+      "year": 2022,
+      "pages": 340,
+      "publisher": "Kalam Pustaka",
+      "language": "Indonesia",
+      "coverImage": null,
+      "clothColor": "#7C3626",
+      "clothAccent": "#E7D8C9",
+      "synopsis": "Rekonstruksi sejarah sosial kota-kota pelabuhan abad ke-19 melalui korespondensi para syahbandar, penerjemah naskah, dan pedagang rempah.",
+      "curatorialNote": "Arsip sejarah primer yang dirangkai seperti kisah detektif yang memikat dari halaman pertama.",
+      "totalCopies": 4,
+      "availableCopies": 4,
+      "borrowCount": 98,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Tinta Besi di Atas Kertas Eropa",
+          "content": [
+            "Setiap kapal yang berlabuh di bandar niaga meninggalkan lebih dari sekadar muatan lada dan kayu manis; ia meninggalkan daftar manifes, surat utang, dan kabar keluarga dari seberang lautan.",
+            "Melalui arsip surat-menyurat tersebut, kita mendengar suara keseharian warga pelabuhan yang jarang tercatat dalam buku sejarah resmi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "algoritma-alam-simetri-bunga",
+      "isbn": "978-623-5112-09-5",
+      "accessionNumber": "PA.2025.019",
+      "title": "Algoritma Alam & Simetri Bunga",
+      "author": "Larasati Dewi",
+      "category": "Sains & Kosmos",
+      "year": 2025,
+      "pages": 224,
+      "publisher": "Balai Pustaka Sains",
+      "language": "Indonesia",
+      "coverImage": null,
+      "clothColor": "#1B4332",
+      "clothAccent": "#D8F3DC",
+      "synopsis": "Pengantar jernih mengenai pola fraktal, deret Fibonacci pada kelopak tumbuhan, dan matematika di balik pertumbuhan terumbu karang.",
+      "curatorialNote": "Sangat direkomendasikan bagi pembaca yang menyukai perpaduan sains visual dan keindahan alam.",
+      "totalCopies": 5,
+      "availableCopies": 4,
+      "borrowCount": 112,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Geometri yang Tumbuh Pelan",
+          "content": [
+            "Alam tidak pernah menggambar dengan penggaris, namun setiap daun pakis, pusaran cangkang nautilus, dan susunan biji bunga matahari mengikuti prinsip efisiensi energi yang sangat presisi.",
+            "Ketika sebuah tunas baru tumbuh pada sudut emas 137,5 derajat, ia memastikan setiap helai daun memperoleh jatah cahaya matahari tanpa saling menutupi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "senja-di-kota-pelabuhan",
+      "isbn": "978-602-8812-65-8",
+      "accessionNumber": "PA.2023.089",
+      "title": "Senja di Kota Pelabuhan",
+      "author": "Bima Prakoso",
+      "category": "Fiksi Sastra",
+      "year": 2023,
+      "pages": 276,
+      "publisher": "Penerbit Lentera Aksara",
+      "language": "Indonesia",
+      "coverImage": null,
+      "clothColor": "#263859",
+      "clothAccent": "#DBE2EF",
+      "synopsis": "Novel tentang seorang pembuat jam tua dan cucunya yang berupaya menyelamatkan menara lonceng kota tua sebelum kawasan pesisir direklamasi.",
+      "curatorialNote": "Pilihan populer pembaca fiksi kontemporer yang menyukai latar kota bersejarah.",
+      "totalCopies": 3,
+      "availableCopies": 2,
+      "borrowCount": 118,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Detak Roda Gigi Kuningan",
+          "content": [
+            "Menara jam di ujung Jalan Niaga tidak pernah benar-benar berhenti sejak tahun 1928, kecuali selama tiga hari pada musim kemarau panjang ketika minyak pelumas mengental.",
+            "Setiap Kamis sore, Kakek Darmo menaiki seratus dua belas anak tangga kayu untuk memeriksa pegas utama sambil memandang kapal tanker melintas di kejauhan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "catatan-kurator-museum",
+      "isbn": "978-623-6109-44-0",
+      "accessionNumber": "PA.2024.101",
+      "title": "Catatan Kurator Museum",
+      "author": "Maya Kartika",
+      "category": "Arsitektur & Budaya",
+      "year": 2024,
+      "pages": 210,
+      "publisher": "Serambi Ruang Press",
+      "language": "Indonesia",
+      "coverImage": null,
+      "clothColor": "#6B5B3E",
+      "clothAccent": "#F5EFE6",
+      "synopsis": "Di balik layar perawatan naskah kuno, tata pencahayaan ruang pamer, dan cara sebuah benda bersejarah bercerita kepada generasi masa kini.",
+      "curatorialNote": "Bacaan ringkas yang memikat bagi pencinta museum, literasi arsip, dan desain pameran.",
+      "totalCopies": 4,
+      "availableCopies": 4,
+      "borrowCount": 89,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bab 1: Cahaya yang Tidak Merusak Tinta",
+          "content": [
+            "Merawat manuskrip berumur tiga abad berarti bernegosiasi dengan cahaya. Pengunjung membutuhkan penerangan cukup untuk membaca aksara halus, sementara kertas tua menuntut keteduhan agar seratnya tidak rapuh."
+          ]
+        }
+      ]
+    }
+  ],
+  "loans": [
+    {
+      "id": "loan-seed-1",
+      "bookId": "jejak-hujan-di-muara",
+      "borrowerName": "Farah Dhiba",
+      "borrowedAt": "2026-11-13T06:54:33.140Z",
+      "dueDate": "2026-11-27T06:54:33.140Z",
+      "returnedAt": null,
+      "renewedCount": 0,
+      "status": "active",
+      "currentPage": 148,
+      "lastReadAt": "2026-11-25T06:54:33.140Z"
+    },
+    {
+      "id": "loan-seed-2",
+      "bookId": "etika-sunyi-zaman-bising",
+      "borrowerName": "Farah Dhiba",
+      "borrowedAt": "2026-11-10T06:54:33.140Z",
+      "dueDate": "2026-11-24T06:54:33.140Z",
+      "returnedAt": null,
+      "renewedCount": 0,
+      "status": "active",
+      "currentPage": 170,
+      "lastReadAt": "2026-11-25T06:54:33.140Z"
+    },
+    {
+      "id": "loan-seed-3",
+      "bookId": "peta-langit-nusantara",
+      "borrowerName": "Farah Dhiba",
+      "borrowedAt": "2026-11-04T06:54:33.140Z",
+      "dueDate": "2026-11-18T06:54:33.140Z",
+      "returnedAt": "2026-11-17T06:54:33.140Z",
+      "renewedCount": 0,
+      "status": "returned",
+      "currentPage": 286,
+      "lastReadAt": "2026-11-17T06:54:33.140Z"
+    },
+    {
+      "id": "loan-seed-4",
+      "bookId": "arsitektur-kayu-ruang-teduh",
+      "borrowerName": "Farah Dhiba",
+      "borrowedAt": "2026-10-22T06:54:33.140Z",
+      "dueDate": "2026-11-05T06:54:33.140Z",
+      "returnedAt": "2026-11-04T06:54:33.140Z",
+      "renewedCount": 1,
+      "status": "returned",
+      "currentPage": 195,
+      "lastReadAt": "2026-11-04T06:54:33.140Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "bookId": "jejak-hujan-di-muara",
+      "reviewerName": "Dimas Pratama",
+      "rating": 5,
+      "comment": "Penggambaran suasana sungai dan ruang arsipnya begitu hidup. Setiap bab terasa seperti berjalan menyusuri dermaga pagi hari sambil membuka album foto lama.",
+      "createdAt": "2026-11-22T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 18
+    },
+    {
+      "id": "rev-2",
+      "bookId": "jejak-hujan-di-muara",
+      "reviewerName": "Niken Ayuningtyas",
+      "rating": 5,
+      "comment": "Alurnya tenang namun menghanyutkan. Sangat cocok dibaca di akhir pekan ketika butuh cerita yang hangat dan reflektif.",
+      "createdAt": "2026-11-16T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": "rev-3",
+      "bookId": "peta-langit-nusantara",
+      "reviewerName": "Farah Dhiba",
+      "rating": 5,
+      "comment": "Penjelasan tentang cara pelaut Nusantara membaca rasi bintang mudah dipahami bahkan untuk pembaca awam astronomi. Ilustrasi dan catatan sejarahnya sangat rapi.",
+      "createdAt": "2026-11-17T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": "rev-4",
+      "bookId": "peta-langit-nusantara",
+      "reviewerName": "Bagus Santoso",
+      "rating": 4,
+      "comment": "Riset sejarah maritimnya kuat sekali. Bagian tentang astrolab di pelabuhan rempah membuka perspektif baru tentang sains di kepulauan.",
+      "createdAt": "2026-11-12T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": "rev-5",
+      "bookId": "etika-sunyi-zaman-bising",
+      "reviewerName": "Rina Wijaya",
+      "rating": 5,
+      "comment": "Esai-esainya singkat tetapi menohok. Membantu saya mengevaluasi ulang kebiasaan membaca cepat dan mulai menyediakan waktu sunyi setiap malam.",
+      "createdAt": "2026-11-23T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": "rev-6",
+      "bookId": "arsitektur-kayu-ruang-teduh",
+      "reviewerName": "Teguh Prasetyo",
+      "rating": 5,
+      "comment": "Membahas teknik pasak kayu dengan bahasa yang jernih. Sangat bermanfaat sebagai referensi desain hunian tropis yang sejuk tanpa pendingin berlebih.",
+      "createdAt": "2026-11-09T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": "rev-7",
+      "bookId": "algoritma-alam-simetri-bunga",
+      "reviewerName": "Sari Wulandari",
+      "rating": 5,
+      "comment": "Mengubah cara saya memandang tanaman di halaman rumah. Penjelasan sudut emas dan pola fraktal dijelaskan dengan contoh sehari-hari.",
+      "createdAt": "2026-11-20T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": "rev-8",
+      "bookId": "senja-di-kota-pelabuhan",
+      "reviewerName": "Andika Nugraha",
+      "rating": 4,
+      "comment": "Kisah yang hangat tentang menjaga warisan kota tua di tengah perubahan zaman. Karakter Kakek Darmo terasa sangat dekat.",
+      "createdAt": "2026-11-14T06:54:33.140Z",
+      "verifiedReader": true,
+      "helpfulCount": 7
+    }
+  ],
+  "eventNotifications": [
+    {
+      "id": "notif-seed-return-1",
+      "loanId": "loan-seed-3",
+      "bookId": "peta-langit-nusantara",
+      "bookTitle": "Peta Langit Nusantara",
+      "severity": "success",
+      "label": "Pengembalian Berhasil",
+      "title": "Buku telah dikembalikan tepat waktu",
+      "message": "Terima kasih telah mengembalikan \"Peta Langit Nusantara\" (100% selesai dibaca). Ulasan Anda sudah terbit di komunitas.",
+      "createdAt": "2026-11-17T06:54:33.140Z",
+      "read": true,
+      "actionable": false
+    }
+  ],
+  "readDynamicNotificationIds": [],
+  "notificationSettings": {
+    "remindThreeDaysBefore": true,
+    "remindOneDayBefore": true,
+    "overdueDailyDigest": true
+  }
+}
